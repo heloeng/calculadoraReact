@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 import Header from "./src/header/Header"
 import Content from "./src/content/Content"
 import Footer from './src/footer/Footer';
-import Content1 from "./src/content/Content1"
+
 
 export default function App() {
   return (
@@ -14,7 +14,7 @@ export default function App() {
 
       <Header />
       <Content />
-      {/* <Content1 /> */}
+     
      
       <Footer />
     </View>

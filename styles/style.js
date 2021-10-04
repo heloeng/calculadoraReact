@@ -34,7 +34,8 @@ footerFont: {
 
 
 content: {
-height: 520,
+
+height: 620,
 justifyContent: "center",
  alignItems: 'center',
      
@@ -64,12 +65,12 @@ marginTop: 5,
 borderRadius: 9,
 borderStartWidth: 8,
 shadowColor: "#666666",
-shadowOffset: {
-	width: 5,
-	height: 2,
-shadowOpacity: 0.25,
-shadowRadius: 3.84,
-elevation: 19, },
+// shadowOffset: {
+// 	width: 5,
+// 	height: 2,
+// shadowOpacity: 0.25,
+// shadowRadius: 3.84,
+elevation: 19
    },
 
 
